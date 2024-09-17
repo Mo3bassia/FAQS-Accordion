@@ -2,6 +2,8 @@ let listQuestions = document.querySelector(".questions-list");
 
 // Make first open automaticlly after remove class hidden in HTML
 function makeOpen(i) {
+  listQuestions.querySelector(`li:nth-of-type(${i}) img`).src =
+    "assets/images/icon-minus.svg";
   listQuestions
     .querySelector(`li:nth-of-type(${i}) .toggle`)
     .classList.remove("hidden");
