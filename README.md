@@ -1,6 +1,10 @@
 # Frontend Mentor - FAQs accordion
 
-- This is a simple design for FAQs accordion challenge by Frontend Mentor Website
+![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+
+## Challenge Link
+
+- [Challenge prview link](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz)
 
 ## Live Demo
 
